@@ -2,6 +2,8 @@
 
 An advanced simulation of Vehicular Ad-hoc Networks (VANET) for highway accident prevention, featuring realistic vehicle behaviors, multiple scenarios, data logging, and comprehensive visualization.
 
+> This repository includes a pull-request workflow example branch for merging into `main` and earning GitHub contribution credit.
+
 ## Features
 
 ### Core VANET Implementation
