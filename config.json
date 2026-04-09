@@ -1,0 +1,14 @@
+{
+    "cam_interval": 1.0,
+    "dsrc_range": 400,
+    "highway_length": 5000,
+    "max_speed": 150,
+    "min_speed": 80,
+    "num_vehicles": 14,
+    "rsu_range": 800,
+    "sim_fps": 25,
+    "sim_speedup": 3.0,
+    "suppression_dist": 150,
+    "traffic_density": "normal",
+    "weather_conditions": "clear"
+}
